@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&width=1000&background=00000000&color=FFFFFF&center=True&vCenter=True&size=25&pause=900&lines=Welcome+to+seorining's+Github!;I'm+interested+in+Deep+Learning(RL,+Recsys,+...))](https://git.io/typing-svg)
 
-[resume](./seorining.pdf)
-
 </div>
 
 <p align="center">
