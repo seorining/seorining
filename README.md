@@ -1,8 +1,12 @@
 <div align = "center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?&width=1000&background=00000000&color=FFFFFF&center=True&vCenter=True&size=25&pause=900&lines=Welcome+to+seorining's+Github!;I'm+interested+in+Deep+Learning(RL,+Recsys,+...))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?&width=1000&background=00000000&color=FFFFFF&center=True&vCenter=True&size=25&pause=900&lines=Welcome+to+seorining's+Github!;I'm+interested+in+Deep+Learning(Graph,+RL,+Recsys+...))](https://git.io/typing-svg)
+
+  ### Interest: Deep Learning ('Graph'), Reinforcement Learning, Recommendation System
 
 </div>
+
+I became interested in computers in elementary school when I wanted to maximize the performance of the computer I had at home. This sparked my interest in studying computers, which eventually became a hobby. While in high school, after witnessing AlphaGo’s victory over Lee Sedol, I developed a dream of becoming an AI developer. I enjoy diving deep into problems and exploring various topics. The sense of accomplishment I feel when solving problems using what I’ve learned motivates me to keep striving for self-improvement every day.
 
 <div align = 'center'>
 
@@ -43,12 +47,11 @@
 
 ![seorining's Contibution Graph](https://github-readme-activity-graph.vercel.app/graph?username=seorining&theme=vue&bg_color=00000000&hide_border=true)
 
+| Sovled.ac Tier </br> [Started on 24.09.05] | 
+|:---:|
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=train1312)](https://solved.ac/train1312)|
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FholyPigeon%2Fhit-counter&count_bg=%231EB854&title_bg=%232C3E50&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
-
-| Sovled.ac Tier </br> [Started on 24.09.05] | Kaggle |
-|:---:|:---:|
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=train1312)](https://solved.ac/train1312)| ![seorining](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{seorining}) |
-
 
 </div>
 
