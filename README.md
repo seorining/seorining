@@ -16,8 +16,6 @@ I became interested in computers in elementary school when I wanted to maximize 
   <a href="https://surrr.tistory.com/">
     <img src="https://img.shields.io/badge/surrr blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>&nbsp
   </a> 
-  <a href="mailto:train1312@naver.com"> <img src="https://img.shields.io/badge/train1312@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=FFFFFF">
-  </a>
 </div>
 
 <h3 align='center'> ✨ Tech Stack ✨ </h3>
