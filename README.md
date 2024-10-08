@@ -13,9 +13,10 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 <h3 align='center'> 📫 Contact 📫 </h3>
 <div align="center">
-  <a href="https://surrr.tistory.com/">
-    <img src="https://img.shields.io/badge/surrr blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:train1312@naver.com"> <img src="https://img.shields.io/badge/train1312@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=FFFFFF"> </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://surrr.tistory.com/">
+    <img src="https://img.shields.io/badge/surrr blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> </a> 
 </div>
 
 <h3 align='center'> ✨ Tech Stack ✨ </h3>
@@ -33,7 +34,7 @@ I became interested in computers in elementary school when I wanted to maximize 
 <img alt='Anaconda' src='https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white'/>
 <img alt='Docker' src='https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white'/>
 <img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white'/>
-<img alt='Mac' src='https://img.shields.io/badge/Mac-000000.svg?&style=for-the-badge&logo=macos&logoColor=white'/>
+<img alt='MacOS' src='https://img.shields.io/badge/MacOS-000000.svg?&style=for-the-badge&logo=macos&logoColor=white'/>
 </div>
 
 <p align="center">
