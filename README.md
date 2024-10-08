@@ -11,6 +11,8 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 <h3 align='center'> 📫 Contact to me 📫 </h3>
 
+---
+
 <div align='center'>
 
 <a href="https://surrr.tistory.com/"> <img src="https://img.shields.io/badge/surrr-000000?style=for-the-badge&logo=tistory&logoColor=white"></a> &nbsp;
@@ -19,6 +21,8 @@ I became interested in computers in elementary school when I wanted to maximize 
 </div>
 
 <h3 align='center'> ✨ Tech Stack ✨ </h3>
+
+---
 
 <div align='center'>
 <img alt='Python' src='https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white'/>
