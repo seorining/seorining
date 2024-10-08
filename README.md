@@ -13,8 +13,8 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 <div align='center'>
 
-  <a href="mailto:train1312@naver.com"> <img src="https://img.shields.io/badge/train1312@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=FFFFFF">
-  </a>
+<a href="https://surrr.tistory.com/"> <img src="https://img.shields.io/badge/surrr-000000?style=for-the-badge&logo=tistory&logoColor=white"></a> &nbsp;
+<a href="mailto:train1312@naver.com"> <img src="https://img.shields.io/badge/train1312@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=FFFFFF"></a>
 
 </div>
 
