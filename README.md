@@ -9,9 +9,7 @@
 I became interested in computers in elementary school when I wanted to maximize the performance of the computer I had at home. This sparked my interest in studying computers, which eventually became a hobby. While in high school, after witnessing AlphaGo’s victory over Lee Sedol, I developed a dream of becoming an AI developer. I enjoy diving deep into problems and exploring various topics. The sense of accomplishment I feel when solving problems using what I’ve learned motivates me to keep striving for self-improvement every day.
 
 
-<h3 align='center'> 📫 Contact to me 📫 </h3>
-
----
+<h2 align='center'> 📫 Contact to me 📫 </h2>
 
 <div align='center'>
 
@@ -20,9 +18,7 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 </div>
 
-<h3 align='center'> ✨ Tech Stack ✨ </h3>
-
----
+<h2 align='center'> ✨ Tech Stack ✨ </h2>
 
 <div align='center'>
 <img alt='Python' src='https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white'/>
