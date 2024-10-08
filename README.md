@@ -9,16 +9,14 @@
 I became interested in computers in elementary school when I wanted to maximize the performance of the computer I had at home. This sparked my interest in studying computers, which eventually became a hobby. While in high school, after witnessing AlphaGo’s victory over Lee Sedol, I developed a dream of becoming an AI developer. I enjoy diving deep into problems and exploring various topics. The sense of accomplishment I feel when solving problems using what I’ve learned motivates me to keep striving for self-improvement every day.
 
 
-<h3 align='center'> 📫 Contact 📫 </h3>
+<h3 align='center'> 📫 Contact to me 📫 </h3>
 
-<p align='center'>
-  <a href="https://surrr.tistory.com/">
-    <img src="https://img.shields.io/badge/surrr blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
-  </a> 
+<div align='center'>
+
   <a href="mailto:train1312@naver.com"> <img src="https://img.shields.io/badge/train1312@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=FFFFFF">
   </a>
 
-</p>
+</div>
 
 <h3 align='center'> ✨ Tech Stack ✨ </h3>
 
