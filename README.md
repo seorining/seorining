@@ -2,23 +2,26 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?&width=1000&background=00000000&color=FFFFFF&center=True&vCenter=True&size=25&pause=900&lines=Welcome+to+seorining's+Github!;I'm+interested+in+Deep+Learning(Graph,+RL,+Recsys+...))](https://git.io/typing-svg)
 
-  ### Interest: Deep Learning ('Graph'), Reinforcement Learning, Recommendation System
+  ### Interest: Deep Learning (Graph), Reinforcement Learning, Recommendation System
 
 </div>
 
 I became interested in computers in elementary school when I wanted to maximize the performance of the computer I had at home. This sparked my interest in studying computers, which eventually became a hobby. While in high school, after witnessing AlphaGo’s victory over Lee Sedol, I developed a dream of becoming an AI developer. I enjoy diving deep into problems and exploring various topics. The sense of accomplishment I feel when solving problems using what I’ve learned motivates me to keep striving for self-improvement every day.
 
-<div align = 'center'>
-
 
 <h3 align='center'> 📫 Contact 📫 </h3>
-<div align='center'>
+
+<p align='center'>
   <a href="https://surrr.tistory.com/">
-    <img src="https://img.shields.io/badge/surrr blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/surrr blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a> 
-</div>
+  <a href="mailto:train1312@naver.com"> <img src="https://img.shields.io/badge/train1312@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=FFFFFF">
+  </a>
+
+</p>
 
 <h3 align='center'> ✨ Tech Stack ✨ </h3>
+
 <div align='center'>
 <img alt='Python' src='https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white'/>
 <img alt='C' src='https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white'/>
@@ -36,14 +39,14 @@ I became interested in computers in elementary school when I wanted to maximize 
 <img alt='MacOS' src='https://img.shields.io/badge/MacOS-000000.svg?&style=for-the-badge&logo=macos&logoColor=white'/>
 </div>
 
+<div align = 'center'>
+
 <p align='center'>
 
   <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api?username=seorining&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000'>
   <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=seorining&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6'>
 
 </p>
-
-<div align='center'>
 
 ![seorining's Contibution Graph](https://github-readme-activity-graph.vercel.app/graph?username=seorining&theme=vue&bg_color=00000000&hide_border=true)
 
