@@ -14,7 +14,7 @@ I became interested in computers in elementary school when I wanted to maximize 
 <h3 align='center'> 📫 Contact 📫 </h3>
 <div align="center">
   <a href="https://surrr.tistory.com/">
-    <img src="https://img.shields.io/badge/Surrr-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/surrr blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:train1312@naver.com"> <img src="https://img.shields.io/badge/train1312@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=FFFFFF"> </a>
 </div>
 
