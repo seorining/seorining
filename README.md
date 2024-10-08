@@ -26,10 +26,10 @@ I became interested in computers in elementary school when I wanted to maximize 
 <img alt='C++' src='https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white'/>
 <img alt='Java' src='https://img.shields.io/badge/Java-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=white'/>
 <img alt='Javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white'/>
-<img alt='Node.js' src='https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-the-badge&logo=Node.js&logoColor=white'/>
+<img alt='Node.js' src='https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-the-badge&logo=Node.js&logoColor=white'/>  
 
 <img alt='Pytorch' src='https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white'/>
-<img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>  
 
 <img alt='Anaconda' src='https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white'/>
 <img alt='Docker' src='https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white'/>
