@@ -1,16 +1,19 @@
 <div align = "center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?&width=1000&background=00000000&color=FFFFFF&center=True&vCenter=True&size=25&pause=900&lines=Welcome+to+seorining's+Github!;I'm+interested+in+Deep+Learning(Graph),+RL,+Recsys+...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?&width=1000&background=00000000&color=52A28B&center=True&vCenter=True&size=25&pause=900&lines=Welcome+to+seorining's+Github!;I'm+interested+in+Deep+Learning(Graph),+RL,+Recsys+...)](https://git.io/typing-svg)
 
 </div>
 
-<h2 align='center'> 🌱 About Me 🌱 </h2>
+<h2 align='center'> <span style= 'color:#52A28B'> 🌱 About Me 🌱 </span> </h2>
 
-I'm a Master's student in Computer Science.   
-My areas of interest are **Deep learning(Graph)**, **Reinforcement learning** and **Recommendation System**.   
+<span style= 'color:#99D1CE'>
+I'm a Master's student in Computer Science. </br>
+My areas of interest are <strong>Deep learning(Graph)</strong>, <strong>Reinforcement learning</strong> and <strong>Recommendation System.</strong>
+</br></br>
 I became interested in computers in elementary school when I wanted to maximize the performance of the computer I had at home. This sparked my interest in studying computers, which eventually became a hobby. While in high school, after witnessing AlphaGo’s victory over Lee Sedol, I developed a dream of becoming an AI developer. I enjoy diving deep into problems and exploring various topics. The sense of accomplishment I feel when solving problems using what I’ve learned motivates me to keep striving for self-improvement every day.
+</span>
 
-<h2 align='center'> 📫 Contact to Me 📫 </h2>
+<h2 align='center'> <span style= 'color:#52A28B'> 📫 Contact to Me 📫 </span> </h2>
 
 <div align='center'>
 
@@ -19,7 +22,7 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 </div>
 
-<h2 align='center'> ✨ Tech Stack ✨ </h2>
+<h2 align='center'> <span style= 'color:#52A28B'> ✨ Tech Stack ✨ </span> </h2>
 
 <div align='center'>
 <img alt='Python' src='https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white'/>
@@ -44,14 +47,14 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 <p align='center'>
 
-  <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api?username=seorining&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000'>
-  <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=seorining&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6'>
-
+  <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api?username=seorining&show_icons=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000'>
+  <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=seorining&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6'>
 </p>
 
-![seorining's Contibution Graph](https://github-readme-activity-graph.vercel.app/graph?username=seorining&theme=vue&bg_color=00000000&hide_border=true)
 
-| Sovled.ac Tier </br> [Started on 24.09.05] | 
+![seorining's Contibution Graph](https://github-readme-activity-graph.vercel.app/graph?username=seorining&theme=gotham&bg_color=00000000&hide_border=true)
+
+| <span style= 'color:#52A28B'> Sovled.ac Tier </br> [Started on 24.09.05] </span> | 
 |:---:|
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=train1312)](https://solved.ac/train1312)|
 
