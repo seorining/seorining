@@ -4,16 +4,15 @@
 
 </div>
 
-<h2 align='center'> <span style= 'color:#52A28B'> 🌱 About Me 🌱 </span> </h2>
+<h2 align='center'> 🌱 About Me 🌱 </h2>
 
-<span style= 'color:#99D1CE'>
 I'm a Master's student in Computer Science. </br>
 My areas of interest are <strong>Deep learning(Graph)</strong>, <strong>Reinforcement learning</strong> and <strong>Recommendation System.</strong>
 </br></br>
 I became interested in computers in elementary school when I wanted to maximize the performance of the computer I had at home. This sparked my interest in studying computers, which eventually became a hobby. While in high school, after witnessing AlphaGo’s victory over Lee Sedol, I developed a dream of becoming an AI developer. I enjoy diving deep into problems and exploring various topics. The sense of accomplishment I feel when solving problems using what I’ve learned motivates me to keep striving for self-improvement every day.
 </span>
 
-<h2 align='center'> <span style= 'color:#52A28B'> 📫 Contact to Me 📫 </span> </h2>
+<h2 align='center'> 📫 Contact to Me 📫 </h2>
 
 <div align='center'>
 
@@ -22,7 +21,7 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 </div>
 
-<h2 align='center'> <span style= 'color:#52A28B'> ✨ Tech Stack ✨ </span> </h2>
+<h2 align='center'> ✨ Tech Stack ✨ </h2>
 
 <div align='center'>
 <img alt='Python' src='https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white'/>
@@ -54,7 +53,7 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 ![seorining's Contibution Graph](https://github-readme-activity-graph.vercel.app/graph?username=seorining&theme=gotham&bg_color=00000000&hide_border=true)
 
-| <span style= 'color:#52A28B'> Sovled.ac Tier </br> [Started on 24.09.05] </span> | 
+| Sovled.ac Tier </br> [Started on 24.09.05] | 
 |:---:|
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=train1312)](https://solved.ac/train1312)|
 
