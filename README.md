@@ -4,6 +4,7 @@
 
 </div>
 
+
 <h2 align='center'> 🌱 About Me 🌱 </h2>
 
 I'm a Master's student in Computer Science. </br>
@@ -24,6 +25,7 @@ I became interested in computers in elementary school when I wanted to maximize 
 <h2 align='center'> ✨ Tech Stack ✨ </h2>
 
 <div align='center'>
+
 <img alt='Python' src='https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white'/>
 <img alt='C' src='https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white'/>
 <img alt='C++' src='https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white'/>
@@ -31,13 +33,18 @@ I became interested in computers in elementary school when I wanted to maximize 
 <img alt='Javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white'/>
 <img alt='Node.js' src='https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-the-badge&logo=Node.js&logoColor=white'/>
 </br>
+<img alt='Numpy' src='https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white'/>
+<img alt='Pandas' src='https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white'/>
+<img alt='scikit-learn' src='https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white'/>
 <img alt='Pytorch' src='https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white'/>
-<img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>  
+<img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img alt="Wandb" src ="https://img.shields.io/badge/wandb-FFBE00.svg?&style=for-the-badge&logo=weightsandbiases&logoColor=white"/>
 </br>
+<img alt='Git' src='https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white'/>
 <img alt='Anaconda' src='https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white'/>
 <img alt='Docker' src='https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white'/>
 <img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white'/>
-<img alt='MacOS' src='https://img.shields.io/badge/MacOS-000000.svg?&style=for-the-badge&logo=macos&logoColor=white'/>
+<img alt='MacOS' src='https://img.shields.io/badge/MacOS-000000.svg?&style=for-the-badge&logo=apple&logoColor=white'/>
 </div>
 
 <div align = 'center'>
