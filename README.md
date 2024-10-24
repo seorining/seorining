@@ -53,16 +53,17 @@ I became interested in computers in elementary school when I wanted to maximize 
 
 <p align='center'>
 
-  <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api?username=seorining&show_icons=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000'>
-  <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=seorining&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6'>
+  <img height="50%" width='auto' src ='https://streak-stats.demolab.com?user=seorining&theme=gotham&hide_border=true&background=00000000'>
+  <!-- <img height="50%" width='auto' src ='https://github-readme-stats.vercel.app/api?username=seorining&show_icons=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000'> -->
+  <img height="auto" width='auro' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=seorining&layout=compact&hide_border=true&theme=gotham&bg_color=00000000'>
 </p>
 
 
 ![seorining's Contibution Graph](https://github-readme-activity-graph.vercel.app/graph?username=seorining&theme=gotham&bg_color=00000000&hide_border=true)
 
-| Sovled.ac Tier </br> [Started on 24.09.05] | 
-|:---:|
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=train1312)](https://solved.ac/train1312)|
+| Sovled.ac Tier </br> [Started on 24.09.05] | Sovled.ac Streak |
+|:---:|:---:|
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=train1312)](https://solved.ac/train1312)|![mazandi profile](http://mazandi.herokuapp.com/api?handle=train1312&theme=dark) |
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FholyPigeon%2Fhit-counter&count_bg=%231EB854&title_bg=%232C3E50&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
