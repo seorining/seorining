@@ -1,14 +1,14 @@
 <div align = "center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?&width=1000&background=00000000&color=52A28B&center=True&vCenter=True&size=25&pause=900&lines=Welcome+to+seorining's+Github!;I'm+interested+in+Deep+Learning(Graph),+RL,+Recsys+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&width=1000&background=00000000&color=52A28B&center=True&vCenter=True&size=25&pause=900&lines=Welcome+to+seorining's+Github!;I'm+interested+in+AI(NLP,+RL,+Recsys)+Graph](https://git.io/typing-svg)
 
 </div>
 
 
 <h2 align='center'> 🌱 About Me 🌱 </h2>
 
-I'm a Master's student in Computer Science. </br>
-My areas of interest are <strong>Deep learning(Graph)</strong>, <strong>Reinforcement learning</strong> and <strong>Recommendation System.</strong>
+I have a Master's degree in Computer Science. </br>
+My areas of interest are <strong>AI(Natural Language Process, Reinforcement Learning)</strong>, <strong>Network(Graph)</strong> and <strong>Recommendation System.</strong>
 </br></br>
 I became interested in computers in elementary school when I wanted to maximize the performance of the computer I had at home. This sparked my interest in studying computers, which eventually became a hobby. While in high school, after witnessing AlphaGo’s victory over Lee Sedol, I developed a dream of becoming an AI developer. I enjoy diving deep into problems and exploring various topics. The sense of accomplishment I feel when solving problems using what I’ve learned motivates me to keep striving for self-improvement every day.
 </span>
